@@ -1,0 +1,5 @@
+{
+    "env" : {
+         "MYPASS" : "root"
+    }
+}
